@@ -10,8 +10,6 @@
   ![License](https://img.shields.io/badge/License-Custom-orange.svg)
   ![Status](https://img.shields.io/badge/Status-Demo-yellow.svg)
 
-  <img src="preview/bot_demo.gif" alt="Bot demonstration" width="600"/>
-
   ⚠️ **Warning:** This is a demo version and basic solution prototype. Not intended for production use.
 </div>
 
@@ -172,7 +170,7 @@ python run_bot.py
 ```
 
 <div align="center">
-  <img src="preview/setup_demo.png" alt="Процесс настройки" width="500"/>
+  <img src="preview/start.png" alt="Главное меню бота" width="500"/>
 </div>
 
 ---
@@ -190,7 +188,7 @@ The project operates in demonstration mode with limited functionality. Use only 
 ### Workflow
 
 <div align="center">
-  <img src="preview/workflow.png" alt="Workflow" width="700"/>
+  <img src="preview/help.png" alt="Помощь бота" width="500"/>
 </div>
 
 ### Bot Commands
@@ -205,17 +203,17 @@ The project operates in demonstration mode with limited functionality. Use only 
 
 #### Resume Analysis
 <div align="center">
-  <img src="preview/resume_analysis.png" alt="Resume analysis" width="400"/>
+  <img src="preview/resume.png" alt="Анализ резюме" width="400"/>
 </div>
 
 #### Job Search
 <div align="center">
-  <img src="preview/job_search.png" alt="Job search" width="400"/>
+  <img src="preview/search.png" alt="Поиск вакансий" width="400"/>
 </div>
 
 #### Cover Letter Generation
 <div align="center">
-  <img src="preview/cover_letter.png" alt="Cover letter" width="400"/>
+  <img src="preview/help.png" alt="Справка бота" width="400"/>
 </div>
 
 <div align="center" style="background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 8px; padding: 15px; margin: 20px 0;">
