@@ -211,11 +211,6 @@ The project operates in demonstration mode with limited functionality. Use only 
   <img src="preview/search.png" alt="Поиск вакансий" width="400"/>
 </div>
 
-#### Cover Letter Generation
-<div align="center">
-  <img src="preview/help.png" alt="Справка бота" width="400"/>
-</div>
-
 <div align="center" style="background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 8px; padding: 15px; margin: 20px 0;">
 
 **⚠️ Note:** All usage examples are for demonstration purposes. Real functions may differ from those described.
